@@ -1,3 +1,7 @@
+function setup() {
+    createCanvas(400,400);
+}
+
 // sprites
 var title = createSprite(200,200);
 
